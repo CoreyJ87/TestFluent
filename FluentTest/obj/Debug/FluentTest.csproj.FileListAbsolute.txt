@@ -1,0 +1,12 @@
+C:\Users\cjones\workspace\FluentTest\FluentTest\bin\Debug\FluentTest.exe.config
+C:\Users\cjones\workspace\FluentTest\FluentTest\obj\Debug\FluentTest.csprojResolveAssemblyReference.cache
+C:\Users\cjones\workspace\FluentTest\FluentTest\bin\Debug\FluentTest.exe
+C:\Users\cjones\workspace\FluentTest\FluentTest\bin\Debug\FluentTest.pdb
+C:\Users\cjones\workspace\FluentTest\FluentTest\bin\Debug\FluentNHibernate.dll
+C:\Users\cjones\workspace\FluentTest\FluentTest\bin\Debug\Iesi.Collections.dll
+C:\Users\cjones\workspace\FluentTest\FluentTest\bin\Debug\NHibernate.dll
+C:\Users\cjones\workspace\FluentTest\FluentTest\bin\Debug\FluentNHibernate.xml
+C:\Users\cjones\workspace\FluentTest\FluentTest\bin\Debug\Iesi.Collections.xml
+C:\Users\cjones\workspace\FluentTest\FluentTest\bin\Debug\NHibernate.xml
+C:\Users\cjones\workspace\FluentTest\FluentTest\obj\Debug\FluentTest.exe
+C:\Users\cjones\workspace\FluentTest\FluentTest\obj\Debug\FluentTest.pdb
